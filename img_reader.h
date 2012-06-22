@@ -1,3 +1,12 @@
+// delete string
+// delete string
+
+// delete string
+
+// delete string
+
+// ADDDDDDDDDDDDDDDDD
+
 #ifndef IMG_READER_H
 #define IMG_READER_H
 
