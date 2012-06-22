@@ -1,3 +1,4 @@
+// delete string
 #ifndef IMG_READER_H
 #define IMG_READER_H
 
