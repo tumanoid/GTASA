@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dff_reader", "dff_reader.vcproj", "{202EEA35-F1E6-4B1C-9BA7-167482987813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{202EEA35-F1E6-4B1C-9BA7-167482987813}.Debug|Win32.ActiveCfg = Debug|Win32
+		{202EEA35-F1E6-4B1C-9BA7-167482987813}.Debug|Win32.Build.0 = Debug|Win32
+		{202EEA35-F1E6-4B1C-9BA7-167482987813}.Release|Win32.ActiveCfg = Release|Win32
+		{202EEA35-F1E6-4B1C-9BA7-167482987813}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
