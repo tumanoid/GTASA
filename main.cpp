@@ -3,18 +3,11 @@
 #include "dff_reader.h"
 
 
-extern "C" __declspec(dllexport) int foo(void*, long);
-
-int foo(void* a, long b){
-	return 0;
-}
-
-/*
 int main( int argc, char* argv[]) {
 
 	DffReader dd(argv[1]);
 	
-	
+/*	
 	vector<int> a[5];
 	for (int j=0; j<5; j++)
 		for (int i=0; i<100; i++)
@@ -26,8 +19,7 @@ int main( int argc, char* argv[]) {
 
 	//printf("\n\npress 'e' to Exit \n");
 	//while (_getch()!='e');
-
+*/
 	return 0;
 
 }
-*/
