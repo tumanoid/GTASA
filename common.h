@@ -1,4 +1,5 @@
 // add first string
+// add second string
 #ifndef COMMON_H
 #define COMMON_H
 
