@@ -1,3 +1,4 @@
+// add first string
 #ifndef COMMON_H
 #define COMMON_H
 
