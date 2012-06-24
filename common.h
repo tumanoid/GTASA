@@ -9,6 +9,7 @@
 #include <conio.h>
 #include <ctype.h>
 
+#include <string>
 #include <vector>
 using namespace std;
 
